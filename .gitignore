@@ -1,2 +1,7 @@
 *.class
 *.log
+.vscode/
+*/project/
+*target/
+*dotty*
+.DS_Store
